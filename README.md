@@ -12,9 +12,8 @@ Finally, the results of the model are visualized using Matplotlib.
 
 ## Technologies Used
 The following technologies and libraries were used in this project:
-
 - TensorFlow
--Keras
+- Numpy
 - OpenCV
 - Matplotlib
 ## Conclusion
